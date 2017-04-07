@@ -1,5 +1,3 @@
-## Christmas Tree
-
 
 ### Details
  - Balls:
