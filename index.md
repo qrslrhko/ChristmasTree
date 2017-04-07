@@ -10,6 +10,9 @@
  
  - Hide lighting source:
    Unlike normal christmas tree, my lighting source hides under tree branches. The lighting source rotates by a period of time. This skill makes christmas tree vivic.<br />  
+ - Leafs:
+   Use VAO and VBO to generate abundant of leafs.<br /> 
+ 
 
 ### Performance
 
